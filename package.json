@@ -1,0 +1,21 @@
+{
+  "name": "nodedemo",
+  "version": "1.0.0",
+  "description": "20190207",
+  "main": "index.js",
+  "dependencies": {
+    "jquery": "^3.3.1",
+    "server": "^1.0.18"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tingtinghsu/nodedemo"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node --version",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ting Ting",
+  "license": "ISC"
+}
